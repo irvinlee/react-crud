@@ -1,0 +1,19 @@
+{
+  "name": "react-crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/irvinlee/react-crud.git"
+  },
+  "author": "Irvin Lee Eduliantes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irvinlee/react-crud/issues"
+  },
+  "homepage": "https://github.com/irvinlee/react-crud#readme"
+}
